@@ -26,7 +26,6 @@ A basic WhatsApp-style chat application where users can send, edit, and delete m
 
 ### 🛠️ Run Locally
 
-```bash
 git clone https://github.com/your-username/whatsapp-clone.git
 cd whatsapp-clone
 npm install
