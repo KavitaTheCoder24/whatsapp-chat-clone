@@ -22,11 +22,3 @@ A basic WhatsApp-style chat application where users can send, edit, and delete m
 - 📆 Timestamped messages  
 - 📋 Chat list display  
 
----
-
-### 🛠️ Run Locally
-
-git clone https://github.com/your-username/whatsapp-clone.git
-cd whatsapp-clone
-npm install
-node index.js
